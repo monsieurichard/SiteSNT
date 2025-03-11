@@ -1,0 +1,118 @@
+body {
+    background-color: blue;
+}
+
+
+h1 {
+    font-family: Times;
+    font-style: normal;
+    font-size: 4em;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    font-family: Times;
+    font-style: normal;
+    font-size: 3em;
+    font-weight: bold;
+    color: grey;
+    text-align: center 
+  }
+  
+p {
+    font-family: monospace;
+    font-style: normal;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: black;
+    text-align: center
+}
+
+a {
+    font-family: Arial;
+    font-style: italic;
+    font-size: 1.5em;
+    font-weight: normal;
+    color: black;
+    text-align: center
+
+}
+
+ul {
+    font-family: Helvetica;
+    font-style: italic;
+    font-size: 2.5em;
+    font-weight: normal;
+    color: yellow;
+    text-align: center
+    
+}
+
+li{
+    font-family: Arial;
+    font-style: italic;
+    font-size: .5em;
+    font-weight: normal;
+    color: black;
+    text-align: center;
+    
+}
+
+h3{
+    font-family: Times;
+    font-style: normal;
+    font-size: 2em;
+    font-weight: bold;
+    color: green;
+    text-align: center
+    
+
+}
+
+h4{
+    font-family: Times;
+    font-style: normal;
+    font-size: 2em;
+    font-weight: bold;
+    color: green;
+    text-align: center
+    
+}
+
+img {
+    font-family: Arial;
+    font-style: normal;
+    font-size: 5em;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+
+}
+    
+h5{  
+    font-family: Times;
+    font-style: normal;
+    font-size: 3em;
+    font-weight: bold;
+    color: green;
+    text-align: center;
+    
+}
+
+div.page{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: lightyellow;
+}
+
+div.liens{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: lightblue;
+	border-style: solid;
+}
+
